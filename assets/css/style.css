@@ -1,0 +1,12 @@
+body {
+   background: rgb(35,35,146);
+}
+
+.main-heading {
+   font-family: 'slackey','sans-serif';
+   color:azure ;
+   display: flex;
+   justify-content: center;
+   
+
+}
